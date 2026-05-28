@@ -2,20 +2,31 @@
 
 iOS app for tracking daily protein intake — Apple Health–style design, on-device only, no accounts.
 
-**By SNE Interactive LLC** · [App Store coming soon]
+**By SNE Interactive LLC** · v1.1 · Available on the App Store
 
 ---
 
 ## What it does
 
 - Activity ring showing your protein vs. your daily goal
-- 47-food database (poultry, meat, seafood, eggs & dairy, supplements, legumes, plant protein, nuts & seeds, grains)
+- 47-food database with diet filters (Halal, Vegetarian, Vegan, Keto, Mediterranean, Paleo)
+- Favorite foods pinned at the top of the log for quick access
+- Daily health tips that change with the time of day
 - Size variants for foods that need them — egg sizes, scoop sizes, serving counts
 - Custom entries for anything not in the database
 - 7-day average and current streak
-- Daily motivational quote
+- Share weekly progress as an image via Messages, Mail, or any app
+- Share the app with friends from Settings
 - Light and dark mode
 - 100% local — your data never leaves your iPhone
+
+## What's new in 1.1
+
+- ⭐ **Favorites** — tap the star on any food to pin it at the top of the log
+- 💡 **Time-of-day health tips** — protein-specific guidance for morning, lunch, evening, late night
+- 🍽 **Diet filter** — pick All, Halal, Vegetarian, Vegan, Keto, Mediterranean, or Paleo
+- 📤 **Share weekly progress** — a one-tap branded image of your week, share via Messages or any app
+- 👥 **Share the app** — Settings → Share Protein Tracker with Friends
 
 ## Pricing
 
